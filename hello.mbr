@@ -1,3 +1,2 @@
-**free
-dsply 'Hello World';
-return;
+  'Hello RPGLE' DSPLY  
+               RETURN;
