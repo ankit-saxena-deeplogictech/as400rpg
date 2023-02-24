@@ -1,31 +1,7 @@
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
-'Hello World'
+H NOMAIN
+
+     Dcl-s Message char(20) Inz('Hello, World!');
+
+     Dsply Message;
+
+     *INLR = *ON;
