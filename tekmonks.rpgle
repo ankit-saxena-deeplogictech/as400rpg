@@ -3,5 +3,5 @@
                                 
                                 
      dcl-proc main;             
-         dsply ('Hello World Check'); 
+         dsply ('Hello World'); 
      end-proc;  
